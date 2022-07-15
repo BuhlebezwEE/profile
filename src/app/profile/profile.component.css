@@ -1,0 +1,43 @@
+h5{
+    text-align:center; 
+    font-family: "Times New Roman", Times, serif;
+    font-size: x-large;
+    padding:3px;
+    
+    
+    
+
+}
+
+h2{
+    text-align: center;
+    font-size: large;
+    padding: 3px;
+    padding-bottom: 2px;
+    text-align: left;
+
+    
+}
+p{
+    text-align: center;
+    padding: 3px;
+    font-family: 'cursive','Arial Narrow', Arial, sans-serif,;
+    font-size: large;
+    text-align:left;
+    font-weight: bold;
+
+    
+}
+h6{
+    float:right;
+  }
+
+  hr {width:30px; margin-bottom: 2px;}
+
+
+  .details {
+      margin-bottom: 70px;
+  }
+  .zandi{
+      margin-bottom:80px;}
+
